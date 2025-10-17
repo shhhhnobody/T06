@@ -17,7 +17,7 @@ const bodyBackgroundColor = "#fffaf0";
 // set up the scales
 const xScale = d3.scaleLinear();
 const yScale = d3.scaleLinear();
-const xSclaeS = d3.scaleLinear();
+const xScaleS = d3.scaleLinear();
 const yScaleS = d3.scaleLinear();
 const colorScale = d3.scaleOrdinal()
 
